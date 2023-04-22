@@ -40,7 +40,7 @@ export function Landing({ gs }: ILanding) {
         <div className="mt-12 md:mt-0 lg:w-7/12 max-w-[550px]">
           <div className="pt-10">
             <img
-              src="/images/robot_playing_with_boy.png"
+              src="images/robot_playing_with_boy.png"
               className="relative w-full opacity-[0.8]"
               alt="wath illustration"
               loading="lazy"

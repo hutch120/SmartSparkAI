@@ -17,7 +17,7 @@ export function Header({ showMenu = true, gs }: IHeader) {
         <div className="h-[64px] flex items-center justify-between py-3">
           <Link to="/">
             <img
-              src="/logo.png"
+              src="logo.png"
               className=""
               alt="wath illustration"
               loading="lazy"
