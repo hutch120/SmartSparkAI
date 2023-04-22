@@ -10,6 +10,7 @@
     "lint": "eslint --ext .js,.jsx,.ts,.jsx .",
     "lint:fix": "eslint --fix --ext .js,.jsx,.ts,.jsx ."
   },
+  "homepage": ".",
   "dependencies": {
     "js-cookie": "^3.0.4",
     "ol": "^7.3.0",
